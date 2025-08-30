@@ -14,11 +14,11 @@ Tech Stack:
 Python, OpenCV, Mediapipe, NumPy, Pandas, Streamlit
 
 Steps to install:
--Clone and install: 
-git clone https://github.com/yourusername/posture-analysis.git
-cd posture-analysis
-pip install -r requirements.txt
+Clone and install: 
+-git clone https://github.com/yourusername/posture-analysis.git
+-cd posture-analysis
+-pip install -r requirements.txt
 
--Run detection: python main.py
+Run detection: python main.py
 
--Run Dashboard: streamlit run dashboard.py
+Run Dashboard: streamlit run dashboard.py
